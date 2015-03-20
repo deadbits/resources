@@ -127,7 +127,7 @@ __Windows (misc)__
 - http://corneldupreez.me/cryptolocker-analysis-with-volatility/
 
 __Sandboxes__
-- http://www.lastline.net
+- http://www.lastline.com
 - http://eureka.cyber-ta.org/
 - http://www.mlsec.org/malheur/install.html
 - https://www.malwr.com
