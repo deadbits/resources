@@ -57,7 +57,7 @@ __Useful Papers__
 - http://reverse.put.as/wp-content/uploads/2014/05/WP-Asia-14-Tsai-You-Cant-See-Me-A-Mac-OS-X-Rootkit-Uses-The-Tricks-You-Havent-Known-Yet.pdf
 - http://reverse.put.as/wp-content/uploads/2014/05/Asia-14-Tsai-You-Cant-See-Me-A-Mac-OS-X-Rootkit-Uses-The-Tricks-You-Havent-Known-Yet.pdf
 - http://reverse.put.as/wp-content/uploads/2014/04/Rex%20vs%20The%20Romans.pdf
-- https://www.blackhat.com/presentations/bh-dc-07/Kendall_McMillan/Paper/bh-dc-07-Kendall_McMillan-WP.pdf
+- https://www.blackhat.com/presentations/http://notanumber.net/archives/183/cuckoo-byte-stuffing-algorithmbh-dc-07/Kendall_McMillan/Paper/bh-dc-07-Kendall_McMillan-WP.pdf
 - https://www.sba-research.org/wp-content/uploads/publications/malware_survey.pdf
 - https://www.blackhat.com/presentations/bh-dc-07/Kendall_McMillan/Presentation/bh-dc-07-Kendall_McMillan.pdf
 - http://0xfeedface.org/sites/default/files/Binary%20protection%20schemes.pdf
@@ -134,7 +134,6 @@ __Sandboxes__
 - http://www.accuvant.com/blog/improving-reliability-of-sandbox-results
 - https://www.viper.li
 - https://www.github.com/sroberts/malwarehouse
-- http://notanumber.net/archives/183/cuckoo-byte-stuffing-algorithm
 
 __Various Docs__
 - http://zeltser.com/reverse-malware/reverse-malware-cheat-sheet.html
@@ -145,6 +144,7 @@ __Various Docs__
 - http://www.slideshare.net/raghvendramishr/practical-malware-analysis
 - http://en.wikipedia.org/wiki/X86_calling_conventions
 - http://blog.crowdstrike.com/unpacking-dynamically-allocated-code/
+- http://notanumber.net/archives/183/cuckoo-byte-stuffing-algorithm
 
 __Open Security Training__
 - http://opensecuritytraining.info/IntroX86-64.html
