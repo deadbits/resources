@@ -77,8 +77,17 @@ __Yara Things__
 - http://www.yaragenerator.com
 
 __Malware Sample & Sources__
+- http://hosts-file.net/?s=Browse
+- http://code.google.com/p/malware-lu/
 - http://www.offensivecomputing.net/
 - http://contagiodump.blogspot.com/?m=1
+- http://xylibox.blogspot.com/
+- https://zeustracker.abuse.ch/
+- http://virustracker.info/
+- http://www.malwareurl.com/listing-urls.php?urls=on
+- http://www.urlvoid.com
+- http://www.ipvoid.com
+- http://www.urlquery.com
 - http://www.tekdefense.com/downloads/malware-samples/
 - http://syrianmalware.com/
 - http://zeltser.com/combating-malicious-software/malware-sample-sources.html
@@ -126,25 +135,41 @@ __Windows (misc)__
 - http://www.tekdefense.com/news/2013/12/23/analyzing-darkcomet-in-memory.html
 - http://corneldupreez.me/cryptolocker-analysis-with-volatility/
 
-__Sandboxes__
+__Sandboxes & Analysis Services__
 - http://www.lastline.com
+- http://www.threatexpert.com/submit.aspx
+- http://www.malwaretracker.com/pdf.php
+- http://mwanalysis.org/?site=1&page=submit
+- https://www.virustotal.com/intelligence
 - http://eureka.cyber-ta.org/
 - http://www.mlsec.org/malheur/install.html
 - https://www.malwr.com
 - http://www.accuvant.com/blog/improving-reliability-of-sandbox-results
+- http://sarvam.ece.ucsb.edu/submit.html
+- http://www.prevx.com/malwarecenter.asp
+
+__Local Appications__
 - https://www.viper.li
+- http://www.cuckoosandbox.org/
 - https://www.github.com/sroberts/malwarehouse
+- https://www.github.com/deadbits/maz (version 2 in Python coming soon @ https://github.com/deadbits/mazy)
+- http://code.mwcollect.org/
 
 __Various Docs__
 - http://zeltser.com/reverse-malware/reverse-malware-cheat-sheet.html
 - http://internetopenurla.blogspot.com/2010/11/intro-to-static-analysis-part-3.html
 - http://vrt-blog.snort.org/2014/09/malware-using-registry-to-store-zeus.html
 - http://vrt-blog.snort.org/2014/08/discovering-dynamically-loaded-api-in.html
-- http://opensecuritytraining.info/MalwareDynamicAnalysis.html
 - http://www.slideshare.net/raghvendramishr/practical-malware-analysis
 - http://en.wikipedia.org/wiki/X86_calling_conventions
 - http://blog.crowdstrike.com/unpacking-dynamically-allocated-code/
 - http://notanumber.net/archives/183/cuckoo-byte-stuffing-algorithm
+- http://www.secretmango.com/jimb/Whitepapers/ptrace/ptrace.html
+- http://cs.lmu.edu/~ray/notes/x86assembly/
+- http://labs.lastline.com/exploit-analysis-via-process-snapshotting
+- https://github.com/volatilityfoundation/volatility/wiki/Mac
+- http://digital-forensics.sans.org/media/hex_file_and_regex_cheat_sheet.pdf
+- http://www.malwaretech.com/2015/01/using-kernel-rootkits-to-conceal.html
 
 __Open Security Training__
 - http://opensecuritytraining.info/IntroX86-64.html
@@ -152,13 +177,7 @@ __Open Security Training__
 - http://opensecuritytraining.info/IntroductionToReverseEngineering.html
 - http://opensecuritytraining.info/IntermediateX86.html
 - http://opensecuritytraining.info/SmartCards.html
-
-- http://www.secretmango.com/jimb/Whitepapers/ptrace/ptrace.html
-- http://cs.lmu.edu/~ray/notes/x86assembly/
-- http://labs.lastline.com/exploit-analysis-via-process-snapshotting
-- https://github.com/volatilityfoundation/volatility/wiki/Mac
-- http://digital-forensics.sans.org/media/hex_file_and_regex_cheat_sheet.pdf
-- http://www.malwaretech.com/2015/01/using-kernel-rootkits-to-conceal.html
+- http://opensecuritytraining.info/MalwareDynamicAnalysis.html
 
 __Linux references__
 - https://blogs.oracle.com/ksplice/entry/8_gdb_tricks_you_should
@@ -198,7 +217,7 @@ __Tools__
 - http://www.exetools.com/unpackers.htm
 - http://www.reversing.be/article.php?story=20050926225443593
 
-###### Privacy
+#### Privacy
 - https://keybase.io/docs/command_line/installation
 - https://www.nsa-observer.net/
 - https://www.whonix.org/wiki/Advanced_Security_Guide#Hardening
@@ -214,10 +233,10 @@ __Tools__
 - http://tinc-vpn.org/examples/osx-install/
 - https://tox.im/
 
-###### Python
+#### Python
 - http://www.curiousvenn.com/2013/06/notes-from-mpug-june-2013-python-one-liners-talk/
 
-###### Data things
+#### Data things
 __Graphs__
 - http://rubylearning.com/blog/2010/12/21/being-awesome-with-the-mongodb-ruby-driver/
 - https://www.youtube.com/watch?v=-ccV0lvM3dw
@@ -252,16 +271,16 @@ __Visualize__
 - http://atlasboard.bitbucket.org/
 - http://blog.opendns.com/2012/08/21/visualizing-threats-in-big-data/
 
-###### Virtualize
+#### Virtualize
 - https://phusion.github.io/baseimage-docker/#intro
 - https://www.packer.io/
 - http://www.vbox.me/
 
-###### Writing & Speaking
+#### Writing & Speaking
 - https://www.gitbook.com/
 - http://speaking.io/
 
-###### Daily Blogs
+#### Daily Blogs
 - http://www.fireeye.com/blog
 - http://www.mandiant.com/blog
 - http://www.crowdstrike.com/blog
@@ -291,3 +310,9 @@ __Visualize__
 - http://detect-respond.blogspot.com
 - http://cybercrime-tracker.net/
 - http://sempersecurus.blogspot.com/
+- http://securityblog.s21sec.com/
+- http://blog.eset.com/
+- http://blog.malwaretracker.com/
+- http://www.abuse.ch/
+- http://www.secureworks.com/research/threats/
+- https://idefense.verisign.com
