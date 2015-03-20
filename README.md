@@ -280,6 +280,10 @@ __Visualize__
 - https://www.gitbook.com/
 - http://speaking.io/
 
+#### DFIR (Digital Forensics & Incident Response)  
+
+#### Log Management  
+
 #### Daily Blogs
 - http://www.fireeye.com/blog
 - http://www.mandiant.com/blog
